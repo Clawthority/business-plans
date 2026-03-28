@@ -1,30 +1,24 @@
 # 🏛️ Government Contracts Scanner — Business Plan
 
-## Summary
-Monitors Canadian (CanadaBuys) and US (SAM.gov, USAspending) government procurement for IT/software/services contracts.
+## Status: Scanner Built, Zero Revenue, Zero Customers
 
-**Market:** $1T+ in government IT spending (US), $20B+ (Canada).
+**What exists:** US + Canadian contract monitoring, working scraper.
+**What doesn't exist:** Customers, revenue, registered on procurement platforms.
 
-## Revenue Model
-| Stream | Price | How |
-|--------|-------|-----|
-| Bid intelligence alerts | $50-200/month | Curated contract alerts |
-| Bid writing service | $500-5,000/bid | Help companies write proposals |
-| Procurement consulting | $2,000-20,000 | Guide through government buying |
-| Supply matching | Commission | Connect suppliers to tenders |
+## What We Know
+- $1T+ in US government IT spending
+- Small businesses struggle to find and bid on contracts
+- CanadaBuys and SAM.gov have public data
 
-## Target
-- Small IT companies seeking government work
-- Consultants helping businesses win contracts
-- Suppliers wanting procurement alerts
+## Next Actions
+1. Register on SAM.gov (free) — to understand the process
+2. Find 3 small businesses that want government contracts
+3. Show them relevant opportunities for free
+4. Ask: "Would you pay for this?"
 
-## Financial Projections
-| Month | Subscribers | MRR |
-|-------|------------|-----|
-| 6 | 50 | $2,500 |
-| 12 | 200 | $10,000 |
+## Success Criteria
+- [ ] 3 businesses see relevant opportunities
+- [ ] 1 says "I'd pay for alerts"
 
-## Competitive Advantage
-- Covers BOTH US and Canada (most tools only cover one)
-- Monitors daily, alerts on relevant opportunities
-- Filtered for small business set-asides
+## Revenue Approach
+Sell curated contract alerts to businesses ($50-200/month).

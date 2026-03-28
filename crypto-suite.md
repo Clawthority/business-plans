@@ -1,43 +1,25 @@
-# 💰 Crypto Tools Suite — Business Plan
+# 💰 Crypto Suite — Business Plan
 
-## Three Products, One Portfolio
+## Status: 3 Tools Running, Zero Revenue, 1 User (Anthony)
 
-### 1. Airdrop Tracker
-**What:** Monitors 14+ EVM chains for airdrop eligibility, new tokens, scam detection.
-**Revenue:** $500-5,000/month (premium alerts, portfolio monitoring)
-**TAM:** 300M+ crypto wallets globally
+**What exists:** Airdrop tracker, alpha feed, money engine — all running on cron.
+**What doesn't exist:** Other users, revenue, premium features.
 
-### 2. Crypto Alpha Feed
-**What:** Automated crypto intelligence aggregator. Monitors blogs, RSS feeds, on-chain data.
-**Revenue:** $200-2,000/month (premium alpha channel subscription)
-**TAM:** 50M+ active crypto traders
+## What We Know
+- Anthony uses it (it's monitoring his wallet)
+- 300M+ crypto wallets exist
+- People pay for alpha/edge in crypto
 
-### 3. DeFi Money Engine
-**What:** Finds yield opportunities, airdrop candidates, testnet rewards.
-**Revenue:** $200-2,000/month (premium yield alerts)
-**TAM:** 10M+ DeFi users
+## Next Actions
+1. Verify the tools work (monitor Anthony's wallet for 1 week)
+2. If useful, package as Telegram bot
+3. Share in crypto communities
+4. See if others want it
 
----
+## Success Criteria
+- [ ] Tools detect something useful for Anthony
+- [ ] Anthony finds value in the alerts
+- [ ] 1 other person wants to use it
 
-## Combined Revenue Model
-
-| Plan | Price | Features |
-|------|-------|----------|
-| Free | $0 | Basic tracking, weekly reports |
-| Crypto Pro | $10/month | All 3 tools, daily alerts, priority |
-| Whale | $50/month | API access, custom alerts, portfolio |
-
-## Combined Financial Projections
-
-| Month | Free | Paid | MRR |
-|-------|------|------|-----|
-| 3 | 500 | 20 | $200 |
-| 6 | 2,000 | 100 | $1,000 |
-| 12 | 10,000 | 500 | $5,000 |
-
-## Competitive Advantage
-- **All-in-one** (competitors offer one tool each)
-- **14+ chains** (most cover 1-3)
-- **Blog monitoring** (catches announcements early)
-- **Scam detection** (protects while tracking)
-- **Free tier** (low barrier to entry)
+## Revenue Approach
+Premium features (more chains, faster alerts, portfolio tracking) for $10/month.
