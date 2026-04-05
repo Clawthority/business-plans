@@ -25,6 +25,12 @@ Complete business plans for all Clawthority products. Each plan covers market an
 | Investment Required | $0 |
 | Time to First Revenue | 1-2 months |
 
+## What's New
+
+- **2026-04** — Added Master Plan with portfolio-level strategy
+- **2026-04** — Added Crypto Suite business plan
+- **2026-04** — Updated revenue projections with current channel mix
+
 ## How to Use These Plans
 
 - **Starting a new product?** Read its plan first — it has the market sizing, pricing rationale, and launch sequence.
@@ -47,3 +53,9 @@ Every business plan follows the same framework:
 ## License
 
 MIT
+
+## Related Products
+
+- **[Scam Academy](../scam-academy)** — Learn to spot scams with interactive simulations
+- **[Scam Shield](../scam-shield)** — Check suspicious messages, links, and crypto addresses
+- **[MindfulBot](../mindful-bot)** — Reduce screen time with micro-challenges
